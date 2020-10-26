@@ -98,7 +98,7 @@ clear
 echo $red "LOADING"
 sleep 0.3
 clear
-echo $green "WELCOME TO MY TOOL Mr,X TEAM"
+echo $green "WELCOME TO MY TOOL Mr, David Pasaribu"
 sleep 3
 clear
 echo
